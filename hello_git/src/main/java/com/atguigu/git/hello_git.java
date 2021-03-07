@@ -8,5 +8,6 @@ public class hello_git {
         System.out.println("hello Git1");
         System.out.println("hello dev1");
         System.out.println("hello dzhugantianjia");
+        System.out.println("hello 分支");
     }
 }
